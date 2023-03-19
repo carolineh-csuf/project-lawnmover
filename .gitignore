@@ -1,0 +1,17 @@
+#
+*.docx
+
+#
+LICENSE
+
+#
+Makefile
+
+#
+disks_test.cpp
+
+#
+rubrictest.hpp
+
+#
+disks_test
